@@ -35,3 +35,6 @@ i-Wish is a desktop application where the user adds friends, creates his wish li
 14.Handles the clients requests
 
 15.Handles the completion of the shares of a gift item and inform the participated clients, then inform the wish list owner that an item has been gifted to him by specific friend(s)
+[IWISH.pdf](https://github.com/user-attachments/files/15874415/IWISH.pdf)
+
+
